@@ -1,22 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> Last week we were introduced to the project and we were sorted into different teams and sub-teams for the project. I was put onto a curriculum team for the ReactJS framework.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+> For this week I will be learning how to use ReactJS from an online tutorial. I also have to start getting familiar with git. Get consistent with git.
 
-> Examples: New Bugs to be fixed, Design choices
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> none
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
