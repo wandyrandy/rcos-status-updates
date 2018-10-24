@@ -1,0 +1,19 @@
+##JavaScript Notes
+< Data is printed, or logged, to the console, a panel that displays
+< messages, with consol.log()
+
+Comments
+- single line comments with //
+- multi-line comments with /* and */
+
+Data types
+- 7 types: strings, numbers, booleans, null, undefined, symbolm
+and object
+- numbers can be both integers and floats
+- strings can be in both double or single quotes (has to be consistent though)
+
+Arithmetic operators
+- include: +, -, *, /, %
+
+- there are objects and methods. Performed by using the dot operator
+
