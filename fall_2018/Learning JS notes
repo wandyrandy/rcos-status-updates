@@ -1,6 +1,6 @@
 ## JavaScript Notes
-< Data is printed, or logged, to the console, a panel that displays
-< messages, with consol.log()
+Data is printed, or logged, to the console, a panel that displays
+messages, with console.log()
 
 Comments
 - single line comments with //
@@ -14,6 +14,30 @@ and object
 
 Arithmetic operators
 - include: +, -, *, /, %
-
 - there are objects and methods. Performed by using the dot operator
+
+3 ways to set variables:
+1. var myName = 'Randy'
+
+2. let myName = 'Randy'
+- by using let, the variable can be easily reassigned
+let myName = 'Randy';
+console.log(myName); // Output: Randy
+myName = 'Wang'
+console.log(myName); // Output: Wang
+- let variable can be assigned nothing, giving it a value undefined
+let myName;
+console.log(myName); // Output: undefined
+myName = 'Randy';
+console.log(myName); // Output: Randy
+
+3. const myName = 'Randy'
+- by using const, the variable cannot be reassigned because it is constant
+- if const variable assignment is empty, it returns a syntax error
+- if const variable is tried to reassign to a new valuable, it returns a
+Type error
+
+Numeric variable assignemnts can be changed with mathematical
+assignment operators
+- +=, -=, *=, /=
 
